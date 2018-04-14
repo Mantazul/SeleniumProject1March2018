@@ -1,0 +1,25 @@
+04-14-18 class notes
+
+
+HTML, CSS.  https://www.w3schools.com/
+
+Maven
+
+Selenium
+
+Selenium is a suite of tools to automate web browser.
+
+Selenium IDE
+Selenium RC 
+Selenium WebDriver
+Selenium Grid
+
+https://www.seleniumhq.org/
+
+https://github.com/SeleniumHQ/selenium/blob/master/dotnet/CHANGELOG
+
+https://chromedriver.storage.googleapis.com/index.html?path=2.37/
+
+Locator:
+https://www.w3schools.com/cssref/css_selectors.asp
+https://www.w3schools.com/xml/xpath_syntax.asp
